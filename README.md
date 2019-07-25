@@ -1,6 +1,5 @@
 # Project: Log Analysis
-
-This reporting tool answers the following three questions:
+The Log Analysis project is the first project in Udacity's full stack web development nanodegree program. The task was to build an internal reporting tool answering the following three questions:
 
 - What are the most popular three articles of all time?
 - Who are the most popular article authors of all time?
