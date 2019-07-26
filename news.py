@@ -14,9 +14,6 @@ HTML_WRAP = '''\
 <html>
   <head>
     <title>Newsdate Log</title>
-    <style>
-
-    </style>
   </head>
   <body>
     <h1>Newsdate Log</h1>
