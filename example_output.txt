@@ -1,17 +1,11 @@
 Newsdate Log
 Top 3 articles by views:
-Candidate is jerk, alleges rival — 338647 views
-
-Bears love berries, alleges bear — 253801 views
-
-Bad things gone, say good people — 170098 views
-
-Top 3 authors by article views
-Ursula La Multa — 507594 views
-
-Rudolf von Treppenwitz — 423457 views
-
-Anonymous Contributor — 170098 views
-
-Dates on which requests errors were above 1%
-2016-07-17 — 2.26% (status code: 404)
+- Candidate is jerk, alleges rival — 338647 views
+- Bears love berries, alleges bear — 253801 views
+- Bad things gone, say good people — 170098 views
+Top 3 authors by article views:
+- Ursula La Multa — 507594 views
+- Rudolf von Treppenwitz — 423457 views
+- Anonymous Contributor — 170098 views
+Dates on which requests errors were above 1%:
+- 2016-07-17 — 2.26% (status code: 404)
