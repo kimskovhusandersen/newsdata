@@ -1,26 +1,17 @@
+Newsdate Log
+Top 3 articles by views:
+Candidate is jerk, alleges rival — 338647 views
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Newsdate Log</title>
-    <style>
+Bears love berries, alleges bear — 253801 views
 
-    </style>
-  </head>
-  <body>
-    <h1>Newsdate Log</h1>
-    <h2>Top 3 articles by views</h2>
-    <p>Candidate is jerk, alleges rival &mdash; 338647 views</p>
-    <p>Bears love berries, alleges bear &mdash; 253801 views</p>
-    <p>Bad things gone, say good people &mdash; 170098 views</p>
+Bad things gone, say good people — 170098 views
 
-    <h2>Top 3 authors by article views</h2>
-    <p>Ursula La Multa &mdash; 507594 views</p>
-    <p>Rudolf von Treppenwitz &mdash; 423457 views</p>
-    <p>Anonymous Contributor &mdash; 170098 views</p>
+Top 3 authors by article views
+Ursula La Multa — 507594 views
 
-    <h2>Dates on which requests errors were above 1%</h2>
-   <p>2016-07-17 <span class=stat> &mdash; 2.26% (status code: 404)</p>
+Rudolf von Treppenwitz — 423457 views
 
-  </body>
-</html>
+Anonymous Contributor — 170098 views
+
+Dates on which requests errors were above 1%
+2016-07-17 — 2.26% (status code: 404)
