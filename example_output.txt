@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Newsdate Log</title>
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <h1>Newsdate Log</h1>
+    <h2>Top 3 articles by views</h2>
+    <p>Candidate is jerk, alleges rival &mdash; 338647 views</p>
+    <p>Bears love berries, alleges bear &mdash; 253801 views</p>
+    <p>Bad things gone, say good people &mdash; 170098 views</p>
+
+    <h2>Top 3 authors by article views</h2>
+    <p>Ursula La Multa &mdash; 507594 views</p>
+    <p>Rudolf von Treppenwitz &mdash; 423457 views</p>
+    <p>Anonymous Contributor &mdash; 170098 views</p>
+
+    <h2>Dates on which requests errors were above 1%</h2>
+   <p>2016-07-17 <span class=stat> &mdash; 2.26% (status code: 404)</p>
+
+  </body>
+</html>

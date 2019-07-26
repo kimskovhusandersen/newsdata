@@ -1,7 +1,10 @@
-# Database code for the DB Forum, full solution!
+#!/usr/bin/env python3
+#
+# PostgreSQL queries to fetch data from the database using Psycopg2
 import psycopg2
 
 DBNAME = "news"
+
 
 def get_top_articles():
     """Return the most popular three articles of all time."""
@@ -43,16 +46,19 @@ def get_errors():
     db = psycopg2.connect(database=DBNAME)
     c = db.cursor()
     c.execute("""
-    SELECT date, round((num404/(num404+num200)*100.0), 2) AS error_ratio
+    SELECT date, round((num404/(num404+num200)*100.0), 2)
+        AS error_ratio
     FROM(
         SELECT t1.date, t1.num AS num200, t2.num AS num404
         FROM(
-            SELECT time::timestamp::date AS date, status, count(status)::numeric AS num
+            SELECT time::timestamp::date AS date,
+                status, count(status)::numeric AS num
             FROM log
             GROUP BY date, status
         ) t1
         INNER JOIN(
-            SELECT time::timestamp::date AS date, status, count(status)::numeric AS num
+            SELECT time::timestamp::date AS date,
+                status, count(status)::numeric AS num
             FROM log
             GROUP BY date, status
         ) t2
