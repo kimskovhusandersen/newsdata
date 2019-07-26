@@ -32,11 +32,11 @@ HTML_WRAP = '''\
 
 # HTML template for an top three articles and authors
 TOP_THREE = '''\
-    <p>%s &mdash; %s views</p>
+- %s &mdash; %s views<br>
 '''
 # HTML template for an request errors above 1%
 ERRORS = '''\
-   <p>%s <span class=stat> &mdash; %s%% (status code: 404)</p>
+- %s <span class=stat> &mdash; %s%% (status code: 404)<br>
 '''
 
 
