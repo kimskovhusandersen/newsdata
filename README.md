@@ -1,4 +1,5 @@
 # Project: Log Analysis
+
 The Log Analysis project is the first project in Udacity's full stack web development nanodegree program. The task was to build an internal reporting tool answering the following three questions:
 
 - What are the most popular three articles of all time?
@@ -27,3 +28,11 @@ The Log Analysis project is the first project in Udacity's full stack web develo
   2. Top 3 authors by article views
   3. Dates on which requests errors were above 1%
 - To close the connection from the command line press `ctrl + c`, logout of the VM with the command `ctrl + d` and shutdown your VM with the command `vagrant halt`.
+
+## Author
+
+- **[Kim Skovhus Andersen](https://github.com/kimskovhusandersen)**
+
+## Acknowledgement
+
+- Udacity provided the training, review and feedback
